@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TailwindCSS-AboutMePage/static/css/main.50b52487.css",
+    "main.js": "/TailwindCSS-AboutMePage/static/js/main.7983f21c.js",
+    "static/js/787.c6b564a5.chunk.js": "/TailwindCSS-AboutMePage/static/js/787.c6b564a5.chunk.js",
+    "static/media/IBMPlexSansKR-Regular.ttf": "/TailwindCSS-AboutMePage/static/media/IBMPlexSansKR-Regular.4e5516d71107fbe3515b.ttf",
+    "static/media/google.svg": "/TailwindCSS-AboutMePage/static/media/google.b596752253d8523d78d4a2691564e4b4.svg",
+    "static/media/apple.svg": "/TailwindCSS-AboutMePage/static/media/apple.e3713dc89ad84e690ab38eae55922d3e.svg",
+    "index.html": "/TailwindCSS-AboutMePage/index.html",
+    "main.50b52487.css.map": "/TailwindCSS-AboutMePage/static/css/main.50b52487.css.map",
+    "main.7983f21c.js.map": "/TailwindCSS-AboutMePage/static/js/main.7983f21c.js.map",
+    "787.c6b564a5.chunk.js.map": "/TailwindCSS-AboutMePage/static/js/787.c6b564a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50b52487.css",
+    "static/js/main.7983f21c.js"
+  ]
+}
